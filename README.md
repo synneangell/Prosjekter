@@ -16,7 +16,7 @@ https://github.com/synneangell/Testing-Av-Programvare.git
 
 
 ### 1.året
-##### Programutvikling: Første programvare utviklet med Java
+##### Programutvikling: Første programvare utviklet i Java
 https://github.com/synneangell/Programutvikling-semesteroppgave.git
 
 ##### Webprosjekt: Nettside utviklet kun med HTML og Css
