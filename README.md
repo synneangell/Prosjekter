@@ -1,10 +1,10 @@
 # Prosjekter
 
 # 3.året
-- Webapplikasjoner: Prosjekt kommer..
+### Webapplikasjoner: Prosjekt kommer..
 
-- Android apputvikling: Utviklet i Java
-Møtebooking app: https://github.com/synneangell/Android-Meetingbooker.git
+### Android apputvikling: Utviklet i Java
+ Møtebooking app: https://github.com/synneangell/Android-Meetingbooker.git
 Mattespill app: https://github.com/synneangell/Android-Mattespill.git
 
 
