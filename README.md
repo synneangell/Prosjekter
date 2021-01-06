@@ -1,22 +1,23 @@
 # Prosjekter
 
 ### 3.året
-##### Webapplikasjoner: Prosjekt kommer..
+##### Webapplikasjoner: 
+- Kundeservice modul: https://github.com/synneangell/Webapplikasjoner-Individuell-Kundeservice
+- Nettside for bussbestilling: https://github.com/synneangell/Webapplikasjoner-Prosjektarbeid-Bussbestilling
 
-### Android apputvikling: Utviklet i Java
-##### Møtebooking app: https://github.com/synneangell/Android-Meetingbooker.git
-##### Mattespill app: https://github.com/synneangell/Android-Mattespill.git
+#### Android apputvikling: Utviklet i Java
+- OsloMet Booking app: https://github.com/synneangell/Android-OsloMet-Booking
+- Møtebooking app: https://github.com/synneangell/Android-Meetingbooker.git
+- Mattespill app: https://github.com/synneangell/Android-Mattespill.git
 
 
 ### 2.året
 ##### Testing av programvare: 
-https://github.com/synneangell/Testing-Av-Programvare.git
-
-##### Algoritmer og datastrukturer
+- Testing av en eksisterende nettside: https://github.com/synneangell/Testing-Av-Programvare.git
 
 
 ### 1.året
 ##### Programutvikling: Første programvare utviklet i Java
-https://github.com/synneangell/Programutvikling-semesteroppgave.git
+- System for billettbestilling: https://github.com/synneangell/Programutvikling-semesteroppgave.git
 
-##### Webprosjekt: Nettside utviklet kun med HTML og Css
+
